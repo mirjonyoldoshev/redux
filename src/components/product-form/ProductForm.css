@@ -1,0 +1,26 @@
+.product-form label {
+  white-space: nowrap;
+  width: 100%;
+}
+.ant-form-item-label {
+  width: 100% !important;
+  overflow: visible !important;
+}
+
+.file_content{
+  position: relative;
+}
+
+.input_file{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  z-index: 3;
+}
+
+.ant-form-item-required {
+  overflow: visible !important;
+}

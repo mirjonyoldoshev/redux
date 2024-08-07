@@ -1,0 +1,9 @@
+.ant-menu-item:has(.active) {
+  background: #1677ff;
+  color: #ffffff;
+}
+
+.ant-layout-sider-children {
+  display: flex;
+  flex-direction: column;
+}
